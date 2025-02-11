@@ -15,7 +15,7 @@ title = "Dinho"
 [params.author]
   name = "Leandro Mileski"
   image = "img/author.jpg"
-  headline = "Test test"
+  headline = "I'm only human"
   #bio = " Hello! A little bit about you"
   links = [
      { email = "mailto:leandro.mileski@outlook.com" },
