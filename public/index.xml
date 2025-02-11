@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dinho</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Dinho</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Feb 2025 11:20:03 -0300</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New First</title>
+      <link>//localhost:1313/posts/new-first/</link>
+      <pubDate>Tue, 11 Feb 2025 11:20:03 -0300</pubDate>
+      <guid>//localhost:1313/posts/new-first/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
